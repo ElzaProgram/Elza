@@ -1,6 +1,6 @@
 # Elza
 ### Overview
-This AI Agent is an advanced computational system designed to communicate with another AI agent, such as Zerebro or Truth Terminal. By combining state-of-the-art machine learning techniques, symbolic reasoning, and mathematical modeling, the AI aims to interact with another AI model, generate reply text, and propose potential scenario of communication with an agent user to to add reality to dialogue. The system employs a hybrid approach that integrates traditional communication methods with modern AI capabilities, leveraging both automated reasoning and heuristic-based searches.
+This AI Agent is an advanced computational system designed to communicate with another popular AI agent. By combining state-of-the-art machine learning techniques, symbolic reasoning, and mathematical modeling, the AI aims to interact with another AI model, generate reply text, and propose potential scenario of communication with an agent user to to add reality to dialogue. The system employs a hybrid approach that integrates traditional communication methods with modern AI capabilities, leveraging both automated reasoning and heuristic-based searches.
 ### Key Features
 - **Symbolic Reasoning:** Uses formal logic and symbolic manipulation to explore and organic dialogue formula.
 - **Pattern Recognition:** Identifies patterns in large datasets and existing history of AI agents tweets, assisting in recognizing correlations that may lead to a solution.
